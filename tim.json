@@ -1,8 +1,9 @@
 {
     "owner": {
-        "username": "jtchang0872"
+        "username": "jtchang0872" ,
+        "email": "jtchang.0872@ttri.org.tw"
     },
     "records": {
-        "CNAME": "is-a.dev"
+        "A": ["60.250.25.173"]
     }
 }
